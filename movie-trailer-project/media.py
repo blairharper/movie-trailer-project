@@ -1,3 +1,4 @@
+# Import dependencies
 import webbrowser
 
 # Movie class containing properties of movies
