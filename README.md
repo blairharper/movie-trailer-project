@@ -16,11 +16,7 @@ https://wiki.python.org/moin/BeginnersGuide/Download
 
 ### Installation & usage
 
-Create a fork of the repository or manually save local copies of the code available at:
-
-```
-https://github.com/blairly/udacity-fullstack/tree/master/movie-trailer-project
-```
+Create a fork of the repository or manually save local copies of the code.
 
 To create a fork using Github:
 
